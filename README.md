@@ -1,18 +1,18 @@
-# 👋 Salut, moi c’est **Clément Pellegry**
+# 👋 Hi, I'm **Clément Pellegry**
 
-🎓 Étudiant en **2ème année à Epitech Lyon**  
-🎂 **19 ans**  
-🌍 Langues : **Français** | **Anglais**
-
----
-
-## 🚀 À propos de moi
-Passionné par le développement logiciel et les nouvelles technologies, je m’intéresse aussi bien à la programmation système qu’au développement applicatif.  
-Toujours motivé pour apprendre et relever de nouveaux défis techniques.
+🎓 **2nd year student at Epitech Lyon**  
+🎂 **19 years old**  
+🌍 Languages: **French** | **English**
 
 ---
 
-## 💻 Langages de programmation
+## 🚀 About me
+Passionate about software development and new technologies, I am interested in both system programming and application development.  
+Always motivated to learn and take on new technical challenges.
+
+---
+
+## 💻 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -25,13 +25,14 @@ Toujours motivé pour apprendre et relever de nouveaux défis techniques.
 
 ---
 
-## 🛠️ Environnements de développement
+## 🛠️ Development Environment & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📫 Me contacter
-📌 Mail : clement.pellegry@epitech.eu
+## 📫 Contact
+📌 Email: **clement.pellegry@epitech.eu**
