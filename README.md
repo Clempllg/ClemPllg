@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Clément Pellegry**
 
-🎓 **2nd year student at Epitech Lyon**  
+🎓 **3nd year student at Epitech Lyon**  
 🎂 **19 years old**  
 🌍 Languages: **French** | **English**
 
@@ -23,6 +23,7 @@ Always motivated to learn and take on new technical challenges.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
 </p>
 
 ---
